@@ -1,0 +1,9 @@
+title: "My Jekyll Site"
+description: "A demo site built with Jekyll"
+theme: minima
+url: "https://mahdishahsavar.github.io"
+baseurl: "" # For user or org site
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  # ...other supported plugins

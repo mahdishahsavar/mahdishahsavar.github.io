@@ -1,7 +1,8 @@
 ---
 layout: home
-title: "Welcome"
+title: "Welcome to My Site"
 ---
 
-# Hello World
-This is the homepage of my Jekyll site.
+# Hello, I'm Mahdi!
+
+Welcome to my personal website. This is a short introduction about myself, my projects, or anything else you'd like to share.

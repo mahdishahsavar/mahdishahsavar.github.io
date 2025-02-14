@@ -20,6 +20,9 @@ I’m a [software developer / data scientist / your role here]. Below are some o
 - **Project 3**: [Repo Link](https://github.com/mahdishahsavar/project3)  
   Another highlight or example of your work.
 
+- **Project 4**: [Repo Link](https://github.com/mahdishahsavar/project3)  
+  Another highlight or example of your work.
+
 *(Add as many bullet points as you like for your repos.)*
 
 ---

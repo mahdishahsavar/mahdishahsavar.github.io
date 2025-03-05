@@ -24,6 +24,12 @@ I’m a Software and Firmware engineer with experience in Circuit Design. Below 
   Another highlight or example of your work.
   
 - **Free Lance and Teaching**: [Repo Link](https://github.com/mahdishahsavar/project2)  
+  Brief description here as well.
+  
+- **Mars Rover**: [Repo Link](https://github.com/mahdishahsavar/project2)  
+  Brief description here as well.
+  
+- **Junior Resque**: [Repo Link](https://github.com/mahdishahsavar/project2)  
   Brief description here as well.  
 *(Add as many bullet points as you like for your repos.)*
 

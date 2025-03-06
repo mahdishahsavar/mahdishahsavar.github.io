@@ -37,9 +37,8 @@ I’m a Software and Firmware engineer with experience in Circuit Design. Below 
 
 ## Skills
 
-- **Languages**: Python, JavaScript, C++, etc.
-- **Frameworks**: React, Node.js, Django, ...
-- **Other**: Docker, CI/CD, Cloud (AWS, Azure, ...)
+- **Programming**: C | C++ | Python | ROS |ROS2 |S MATLAB | Java | React | Deep Learning | Machine Learning | Optimization | Reinforcement Learning | GIT | Embedded Programming | RTOS | VHDL | Verilog | STM32cube | LabView | Linux
+- **Other**: Analog and Digital Electronics | PCB Design | Microcontrollers | Altium Designer | SolidWorks | AutoCAD | Arduino | Raspberry Pi | Jetson | PLC | VectorBox | Gazebo | RViz | SoC | ARM | ESP32 | RISC-V | AVR | x86 | Yocto | Buildroot | Robotic Manipulators | SPI |I2C | UART | CAN
 
 *(Tailor this list to your real skill set.)*
 

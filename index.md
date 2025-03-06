@@ -46,8 +46,8 @@ I’m a Software and Firmware engineer with experience in Circuit Design. Below 
 
 ## Contact
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [mshahsavar@unr.edu](mailto:mshahsavar@unr.edu)
 - **GitHub**: [@mahdishahsavar](https://github.com/mahdishahsavar)
-- **LinkedIn**: [Mahdi Shahsavar](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [Mahdi Shahsavar](https://www.linkedin.com/in/mahdi-shahsavar/)
 
 Thank you for visiting my site!

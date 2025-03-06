@@ -9,6 +9,22 @@ I’m a Software and Firmware engineer with experience in Circuit Design. Below 
 
 ---
 
+## Work Experience
+
+- **Embedded Software Engineer**, Company XYZ (2021–Present)  
+  - Developed and maintained embedded firmware for multiple IoT devices, focusing on real-time data acquisition and wireless communication (Bluetooth, LoRa).  
+  - Implemented efficient RTOS-based scheduling and interrupt handling, reducing system latency by 30%.  
+  - Collaborated with cross-functional hardware and software teams to bring products from concept to production.
+
+- **Hardware/Firmware Engineer**, Company ABC (2019–2021)  
+  - Designed and tested custom PCB solutions, integrating microcontrollers (AVR, ARM) and peripheral sensors for industrial automation projects.  
+  - Programmed in C and C++ for real-time applications, implementing I2C and SPI for sensor data collection.  
+  - Optimized existing firmware to improve reliability and reduce power consumption by 20%.
+
+*(Add or modify bullet points for each role, detailing responsibilities, technical achievements, and any significant results.)*
+
+---
+
 ## Projects
 
 - **IMU Project**: [Repo Link](https://github.com/mahdishahsavar/project1)  
@@ -41,22 +57,6 @@ I’m a Software and Firmware engineer with experience in Circuit Design. Below 
   
 - **Junior Resque**: [Repo Link](https://github.com/mahdishahsavar/project2)  
   Brief description here.
-
----
-
-## Work Experience
-
-- **Embedded Software Engineer**, Company XYZ (2021–Present)  
-  - Developed and maintained embedded firmware for multiple IoT devices, focusing on real-time data acquisition and wireless communication (Bluetooth, LoRa).  
-  - Implemented efficient RTOS-based scheduling and interrupt handling, reducing system latency by 30%.  
-  - Collaborated with cross-functional hardware and software teams to bring products from concept to production.
-
-- **Hardware/Firmware Engineer**, Company ABC (2019–2021)  
-  - Designed and tested custom PCB solutions, integrating microcontrollers (AVR, ARM) and peripheral sensors for industrial automation projects.  
-  - Programmed in C and C++ for real-time applications, implementing I2C and SPI for sensor data collection.  
-  - Optimized existing firmware to improve reliability and reduce power consumption by 20%.
-
-*(Add or modify bullet points for each role, detailing responsibilities, technical achievements, and any significant results.)*
 
 ---
 

@@ -27,19 +27,20 @@ I’m an embedded software/firmware and hardware engineer specializing in circui
   - Optimized existing firmware to improve reliability and reduce power consumption.
     
 - **Firmware/Hardware Teacher and Freelance Engineer**, Tehran, Iran (Jun 2012 – Dec 2019)  
-  - Work as a Robotic (Hardware and Firmware) teacher, Mentoring teams for different competitions or making new patents.   
+  - - **Firmware/Hardware Teacher and Freelance Engineer**, Tehran, Iran (Jun 2012 – Dec 2019)  
+  - Taught and mentored teams in robotics hardware and firmware, guiding them through international competitions and patent development.   
   - Working freelance on projects from helping them with developing the idea, designing the circuit, building the hardware, and doing the firmware mostly with the help of ARM and AVR microcontrollers.  
   - List of Honors as a Mentor and Teacher: 
     - Silver medal in iENA competition, Nuremberg, Germany (2013)
     - Special award from Russian House for international scientific and technological cooperation, Geneva, Switzerland (2013)
-    - Two silver medals in Geneva inventions competition, Geneva, Switzerland (2014)
+    - Two silver medals in the Geneva Inventions Competition, Geneva, Switzerland (2014)
     - Thailand special award for best international invention from NRCT, Geneva, Switzerland (2014)
     - Silver medal in Arga ARCA agriculture fair, Biograd na Moru, Croatia (2014)
-    - Two silver medals in ARCA competition, Biograd na Moru, Croatia (2014)
-    - First Place of RoboCup Asia Pacific international competition in junior rescue league, Iran, Kish (2018)
-    - First place of FIRA RoboWorld Cup international competition in youth Demo Creativity, Iran, Tehran (2019)
-    - Second place of FIRA RoboWorld Cup international competition in youth Demo Creativity, Iran, Tehran (2019)
-    - First place of FIRA RoboWorld Cup international competition in Best Presentation Creativity, Iran, Tehran (2019)-
+    - Two silver medals in the ARCA competition, Biograd na Moru, Croatia (2014)
+    - First Place in RoboCup Asia Pacific international competition in junior rescue league, Iran, Kish (2018)
+    - First place in FIRA RoboWorld Cup international competition in youth Demo Creativity, Iran, Tehran (2019)
+    - Second place in FIRA RoboWorld Cup international competition in youth Demo Creativity, Iran, Tehran (2019)
+    - First place of FIRA RoboWorld Cup international competition in Best Presentation Creativity, Iran, Tehran (2019)-   
 
 ---
 

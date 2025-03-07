@@ -21,12 +21,12 @@ I’m a Software and Firmware engineer with experience in Circuit Design. Below 
   - Programmed in C and C++ for real-time applications, implementing I2C and SPI for sensor data collection.  
   - Optimized existing firmware to improve reliability and reduce power consumption by 20%.
   - 
-- **Firmware/Hardware Engineer**, Farmed Tajhiz (Oct 2024 – Dec 2024)  
+- **Firmware/Hardware Engineer**, Farmed Tajhiz (May 2017 – Jun 2019)  
   - Designed and tested custom PCB solutions, integrating microcontrollers (AVR, ARM) and peripheral sensors for industrial automation projects.  
   - Programmed in C and C++ for real-time applications, implementing I2C and SPI for sensor data collection.  
   - Optimized existing firmware to improve reliability and reduce power consumption by 20%.
   - 
-- **Firmware/Hardware Teacher and Freelance engineer**, Tehran, Iran (Jun 2012 – Dec 2019)  
+- **Firmware/Hardware Teacher and Freelance Engineer**, Tehran, Iran (Jun 2012 – Dec 2019)  
   - Designed and tested custom PCB solutions, integrating microcontrollers (AVR, ARM) and peripheral sensors for industrial automation projects.  
   - Programmed in C and C++ for real-time applications, implementing I2C and SPI for sensor data collection.  
   - Optimized existing firmware to improve reliability and reduce power consumption by 20%.

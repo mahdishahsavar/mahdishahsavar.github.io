@@ -11,17 +11,25 @@ I’m a Software and Firmware engineer with experience in Circuit Design. Below 
 
 ## Work Experience
 
-- **Embedded Software Engineer**, Company XYZ (2021–Present)  
+- **Software/Firmware/Hardware Researcher**, University of Nevada, Reno (Oct 2021–Present)  
   - Developed and maintained embedded firmware for multiple IoT devices, focusing on real-time data acquisition and wireless communication (Bluetooth, LoRa).  
   - Implemented efficient RTOS-based scheduling and interrupt handling, reducing system latency by 30%.  
   - Collaborated with cross-functional hardware and software teams to bring products from concept to production.
 
-- **Hardware/Firmware Engineer**, Company ABC (2019–2021)  
+- **Embedded Software Engineer**, Sundance DSP Inc (Oct 2024 – Dec 2024)  
   - Designed and tested custom PCB solutions, integrating microcontrollers (AVR, ARM) and peripheral sensors for industrial automation projects.  
   - Programmed in C and C++ for real-time applications, implementing I2C and SPI for sensor data collection.  
   - Optimized existing firmware to improve reliability and reduce power consumption by 20%.
-
-*(Add or modify bullet points for each role, detailing responsibilities, technical achievements, and any significant results.)*
+  - 
+- **Firmware/Hardware Engineer**, Farmed Tajhiz (Oct 2024 – Dec 2024)  
+  - Designed and tested custom PCB solutions, integrating microcontrollers (AVR, ARM) and peripheral sensors for industrial automation projects.  
+  - Programmed in C and C++ for real-time applications, implementing I2C and SPI for sensor data collection.  
+  - Optimized existing firmware to improve reliability and reduce power consumption by 20%.
+  - 
+- **Firmware/Hardware Teacher and Freelance engineer**, Tehran, Iran (Jun 2012 – Dec 2019)  
+  - Designed and tested custom PCB solutions, integrating microcontrollers (AVR, ARM) and peripheral sensors for industrial automation projects.  
+  - Programmed in C and C++ for real-time applications, implementing I2C and SPI for sensor data collection.  
+  - Optimized existing firmware to improve reliability and reduce power consumption by 20%.
 
 ---
 

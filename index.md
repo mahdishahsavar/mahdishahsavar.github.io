@@ -27,7 +27,6 @@ I’m an embedded software/firmware and hardware engineer specializing in circui
   - Optimized existing firmware to improve reliability and reduce power consumption.
     
 - **Firmware/Hardware Teacher and Freelance Engineer**, Tehran, Iran (Jun 2012 – Dec 2019)  
-  - - **Firmware/Hardware Teacher and Freelance Engineer**, Tehran, Iran (Jun 2012 – Dec 2019)  
   - Taught and mentored teams in robotics hardware and firmware, guiding them through international competitions and patent development.   
   - Working freelance on projects from helping them with developing the idea, designing the circuit, building the hardware, and doing the firmware mostly with the help of ARM and AVR microcontrollers.  
   - List of Honors as a Mentor and Teacher: 
@@ -62,11 +61,15 @@ I’m an embedded software/firmware and hardware engineer specializing in circui
   - Programmed a 6-DOF manipulator mounted on a rover to sand the exterior of boats (simulation).  
   - Programmed a 6-DOF Doosan A0509 manipulator. Collaborated with Nvidia Jetson, Depth Camera, and 2D/3D LiDars.
 
+- **Operation Optimization**:
+  I have a master's in business administration, and I have done my thesis in operation optimization. I combined two famous optimization algorithms to make a new algorithm that can solve our problem faster than others.******
+  
 - **Python Games**: [Repo Link](https://github.com/mahdishahsavar/project2)  
-  Brief description here.
+  I have contributed to two games, The first one was a recreation of Packman and the second one was a maze with coding questions like Leetcode as challenges. The idea was to make a game to test programming skills.
+  
 
 - **Reinforcement/Deep Learning Projects**: [Repo Link](https://github.com/mahdishahsavar/project3)  
-  Another highlight or example of your work.
+  Some COurse projects I have done in RL and deep learning.
 
 - **ROS / Robotic Project**: [Repo Link](https://github.com/mahdishahsavar/project3)  
   Another highlight or example of your work.

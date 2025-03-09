@@ -48,10 +48,10 @@ I’m an embedded software/firmware and hardware engineer specializing in circui
 
 ## Projects
 
-- **IMU Project**: [Repo Link](https://github.com/mahdishahsavar/project1)  
+- **IMU Project**: [Repo Link](https://github.com/mahdishahsavar/Slope_IMU.git)
   Designed and programmed a new IMU board featuring an STM32 ARM processor, LoRa modules for communication, a barometer, a temperature sensor, and two accelerometers for varying acceleration ranges. The ARM was programmed in an embedded C++ environment, utilizing RTOS, I2C, and UART serial communication protocols for the modules. The PCB was designed using Altium Designer.
 
-- **Underground UWB Positioning Module**: [Repo Link](https://github.com/mahdishahsavar/project1)  
+- **Underground UWB Positioning Module**: [Repo Link](https://github.com/mahdishahsavar/UWB_Positioning.git)  
   Designed and built a gas monitoring system for underground tunnels, utilizing multiple gas sensors and a board equipped with an AVR microcontroller. This setup collects sensor data using I2C and then transmits it via a UART serial connection to a computer for analysis.
   
 - **Underground CO2 Monitoring**: [Repo Link](https://github.com/mahdishahsavar/project1)  
@@ -60,7 +60,7 @@ I’m an embedded software/firmware and hardware engineer specializing in circui
 - **Excavator**: [Repo Link](https://github.com/mahdishahsavar/project1)  
   Designed and built a small scale of a real excavator for remote control and fully immersive teleoperation.
 
-- **Manipulator projects**: [Repo Link](https://github.com/mahdishahsavar/project1)  
+- **Manipulator projects**: [Repo Link](https://github.com/mahdishahsavar/Sanding_project/tree/project)  
   - Programmed a 6-DOF manipulator mounted on a rover to sand the exterior of boats (simulation).  
   - Programmed a 6-DOF Doosan A0509 manipulator. Collaborated with Nvidia Jetson, Depth Camera, and 2D/3D LiDars.
 

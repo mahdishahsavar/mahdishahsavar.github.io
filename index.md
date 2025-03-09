@@ -17,14 +17,17 @@ I’m an embedded software/firmware and hardware engineer specializing in circui
   - Designed and built various PCBs; performed bare-metal ARM programming using STM32Cube and Segger Embedded Studio.
   - Utilized ESP32, ARM, and AVR microcontrollers across diverse hardware designs.
 
+
 - **Embedded Software Engineer**, Sundance DSP Inc (Oct 2024 – Dec 2024)  
   - Developed firmware for a RISC-V SoC using Buildroot and Yocto.  
   - Programming FPGA for real-time image processing.  
+
 
 - **Firmware/Hardware Engineer**, Farmed Tajhiz (May 2017 – Jun 2019)  
   - Designed and tested custom PCB solutions, integrating microcontrollers (AVR, ARM) and peripheral sensors for industrial projects.  
   - Programmed in C and C++ for real-time applications, implementing UART, CAN, I2C, and SPI for sensor data collection.  
   - Optimized existing firmware to improve reliability and reduce power consumption.
+
     
 - **Firmware/Hardware Teacher and Freelance Engineer**, Tehran, Iran (Jun 2012 – Dec 2019)  
   - Taught and mentored teams in robotics hardware and firmware, guiding them through international competitions and patent development.   
@@ -88,7 +91,7 @@ I’m an embedded software/firmware and hardware engineer specializing in circui
 ## Skills
 
 - **Programming**: C, C++, Python, ROS, ROS2, MATLAB, Java, React, Deep Learning, Machine Learning, Optimization, Reinforcement Learning, GIT, Embedded Programming, RTOS, VHDL, Verilog, STM32Cube, LabVIEW, Linux  
-- **Other**: Analog and Digital Electronics, PCB Design, Microcontrollers, Altium Designer, SolidWorks, AutoCAD, Arduino, Raspberry Pi, Jetson, PLC, VectorBox, Gazebo, RViz, SoC, ARM, ESP32, RISC-V, AVR, x86, Yocto, Buildroot, Robotic Manipulators, SPI, I2C, UART, CAN
+- **Other**: Analog and Digital Electronics, PCB Design, Microcontrollers, Altium Designer, QEMU, SolidWorks, AutoCAD, Arduino, Raspberry Pi, Jetson, PLC, VectorBox, Gazebo, RViz, SoC, ARM, ESP32, RISC-V, AVR, x86, Yocto, Buildroot, Robotic Manipulators, SPI, I2C, UART, CAN
 
 ---
 
